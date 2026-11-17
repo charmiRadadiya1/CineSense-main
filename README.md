@@ -65,5 +65,5 @@ npm install<br/>
 npm start<br/>
 
 🧑‍💻 Author<br/>
-Developed with ❤️ by Dishant Upadhyay and Mansi Dhandha<br/>
+Developed with ❤️ by Charmi Radadiya<br/>
 © 2025 Dishant Upadhyay. All rights reserved.
